@@ -4,7 +4,6 @@
 
 export const environment = {
   production: false,
-
   supabaseUrl: 'https://kqoixcfkivmjolupzasc.supabase.co',
   supabaseKey:
     'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtxb2l4Y2ZraXZtam9sdXB6YXNjIiwicm9sZSI6ImFub24iLCJpYXQiOjE2Njk3MjgzNjUsImV4cCI6MTk4NTMwNDM2NX0.VGaveiHV0lGTAcb1aYJduxLbCn8JR55wbpy6jzY5J50',
