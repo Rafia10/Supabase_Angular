@@ -1,3 +1,7 @@
+# Magic Link Authentication
+
+This project is about login with Magic Link using supabase and angular.
+
 # SupabaseAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
